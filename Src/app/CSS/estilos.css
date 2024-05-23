@@ -14,7 +14,7 @@ body {
     text-align: center;
 }
 
-.perfil-img {
+.pimg {
     width: 100px;
     border-radius: 50%;
 }
@@ -54,6 +54,8 @@ body {
 
 .texto,
 .educacion,
+.habilidades,
 .experencia {
     margin-bottom: 20px;
+    text-align: center;
 }
