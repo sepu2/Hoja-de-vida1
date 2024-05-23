@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.perfil {
+    text-align: center;
+}
+
+.perfil-img {
+    width: 100px;
+    border-radius: 50%;
+}
+
+.info {
+    margin-top: 20px;
+}
+
+.nombre {
+    margin-bottom: 10px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.cargo {
+    font-style: italic;
+}
+
+.locacion {
+    font-weight: bold;
+}
+
+.email,
+.numero {
+    font-size: 14px;
+}
+
+.separador {
+    margin: 10px 0;
+    border: none;
+    border-top: 1px solid #ccc;
+}
+
+.section-title {
+    margin-top: 20px;
+}
+
+.texto,
+.educacion,
+.experencia {
+    margin-bottom: 20px;
+}
